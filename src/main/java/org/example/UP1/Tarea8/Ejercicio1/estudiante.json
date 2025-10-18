@@ -1,0 +1,10 @@
+{
+    "curso": "2º DAM",
+    "nombre": "Carlos",
+    "edad": 18,
+    "asignaturas": [
+        "Programación",
+        "Bases de datos",
+        "Lenguaje de marcas"
+    ]
+}
