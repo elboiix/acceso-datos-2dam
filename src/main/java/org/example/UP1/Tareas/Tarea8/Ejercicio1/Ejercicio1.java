@@ -1,4 +1,4 @@
-package org.example.UP1.Tarea8.Ejercicio1;
+package org.example.UP1.Tareas.Tarea8.Ejercicio1;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

@@ -1,4 +1,4 @@
-package org.example.UP1.Tarea8.Ejercicio6;
+package org.example.UP1.Tareas.Tarea8.Ejercicio6;
 
 import java.util.List;
 
