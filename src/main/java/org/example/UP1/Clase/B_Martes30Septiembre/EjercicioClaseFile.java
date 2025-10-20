@@ -1,6 +1,6 @@
 // Ejercicio página 40
 
-package Martes30Septiembre;
+package org.example.UP1.Clase.B_Martes30Septiembre;
 
 import java.io.File;
 import java.io.IOException;

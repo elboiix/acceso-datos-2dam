@@ -1,4 +1,4 @@
-package Lunes29Septiembre;
+package org.example.UP1.Clase.A_Lunes29Septiembre;
 
 // Scanner --> Es una clase de Java que sirve para leer datos (entrada).
 import java.util.Scanner;

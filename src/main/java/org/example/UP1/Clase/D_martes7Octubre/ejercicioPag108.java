@@ -51,7 +51,6 @@ public class ejercicioPag108 {
             System.out.println("- Versión : " + versionStr);
             System.out.println("- Autor   : " + autor);
 
-
             // Convertimos la versión de texto a número (double) para poder sumarle 0.1
             double version = Double.parseDouble(versionStr);
 

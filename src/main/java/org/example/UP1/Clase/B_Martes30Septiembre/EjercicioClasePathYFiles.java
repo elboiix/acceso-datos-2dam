@@ -1,4 +1,4 @@
-package Martes30Septiembre;
+package org.example.UP1.Clase.B_Martes30Septiembre;
 
 import java.io.IOException;
 import java.nio.file.*;
@@ -54,6 +54,7 @@ public class EjercicioClasePathYFiles {
                 // Creamos el archivo viejo de prueba
                 Files.createFile(viejo);
             }
+
             Files.move(viejo, nuevo, StandardCopyOption.REPLACE_EXISTING); // Renombramos (o movemos)
             System.out.println("Archivo renombrado a: " + nuevo.getFileName());
 

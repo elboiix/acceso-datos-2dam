@@ -1,4 +1,4 @@
-package Martes30Septiembre;
+package org.example.UP1.Clase.B_Martes30Septiembre;
 
 // RECURSO:
 // cualquier objeto externo que ocupa recursos del sistema operativo
